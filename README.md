@@ -89,14 +89,29 @@ The first pass surfaced $11.36M in non-billable cost. After client feedback on P
 
 ## HR Interactive Dashboard
 
-A four-page Power BI report, with each page mapped to one of BGIS's original business questions:
+A four-page Power BI report, with each page mapped to one of BGIS's original business questions.
 
-| Page | Question it answers |
-|---|---|
-| **Overview** | Where should we pay attention first? |
-| **Workforce Capacity** | Do we have the right workforce in the right areas? |
-| **Overtime & Risk** | Where is workload pressure becoming costly or unsustainable? |
-| **Cost & Billing** | What drives non-billable cost, and where is the biggest recovery opportunity? |
+### Overview
+
+*Where should we pay attention first?* Headcount, terminations, non-billable cost and overtime on one screen, with key insights alongside.
+
+![BGIS HR Dashboard: Overview page](assets/dashboard-overview.png)
+
+### Workforce Capacity
+
+*Do we have the right workforce in the right areas?* Hires vs departures, terminations by trade, how time is split across each trade, and capacity by grade.
+
+![BGIS HR Dashboard: Workforce Capacity page](assets/dashboard-workforce-capacity.png)
+
+### Overtime & Risk
+
+*Where is workload pressure becoming costly or unsustainable?* The overtime trend, unbillable overtime cost by trade, and overtime patterns by tenure and grade.
+
+![BGIS HR Dashboard: Overtime & Risk page](assets/dashboard-overtime-risk.png)
+
+### Cost & Billing
+
+*What drives non-billable cost, and where is the biggest recovery opportunity?* Non-billable cost by trade, cost vs revenue, billing status composition, and the Defence-NNSW account concentration.
 
 ![BGIS HR Dashboard: Cost & Billing page](assets/dashboard-cost-billing.png)
 
